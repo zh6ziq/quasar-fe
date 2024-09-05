@@ -1,41 +1,9 @@
-# Quasar App (quasar-test)
+# Quasar-Fe Web App
 
-A Quasar Project
+Development of web app using VueJs + Quasar.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+# Requirements
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
-
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+- NodeJs v20
+- Quasar v2
+- VueJs v3
